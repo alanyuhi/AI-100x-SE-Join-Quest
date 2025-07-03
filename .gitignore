@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# pytest cache
+.pytest_cache/
+
+# Behave/pytest log and report
+*.log
+result.log
+behave.log
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
