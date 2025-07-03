@@ -1,0 +1,20 @@
+# Core testing frameworks
+behave>=1.2.6
+pytest>=7.0.0
+
+# Pytest plugins for reporting
+pytest-html>=3.1.1
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0
+
+# Behave HTML formatter
+behave-html-pretty-formatter>=1.0.0
+
+# Code quality tools
+flake8>=5.0.0
+pylint>=2.15.0
+black>=22.0.0
+isort>=5.10.0
+
+# Development tools
+watchdog>=2.1.0 

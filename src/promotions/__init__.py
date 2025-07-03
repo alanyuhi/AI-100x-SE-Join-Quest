@@ -1,0 +1,1 @@
+# Promotion strategies and rules 

@@ -16,6 +16,10 @@ venv/
 result.log
 behave.log
 
+# Reports directory
+reports/
+*.html
+
 # VSCode settings
 .vscode/
 

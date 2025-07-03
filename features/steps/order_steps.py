@@ -1,5 +1,5 @@
 from behave import given, when, then
-from src.order_service import OrderService
+from src.services.order_service import OrderService
 
 @given('no promotions are applied')
 def step_impl(context):

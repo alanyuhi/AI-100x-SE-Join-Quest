@@ -13,7 +13,6 @@ Feature: Double 11 Promotion
       | totalAmount |
       | 1000        |
 
-  @wip
   Scenario: Buy 27 pairs of socks at 100 each
     Given the double 11 promotion is active
     When a customer places an order with:
@@ -23,7 +22,6 @@ Feature: Double 11 Promotion
       | totalAmount |
       | 2300        |
 
-  @wip
   Scenario: Buy 10 different products at 100 each
     Given the double 11 promotion is active
     When a customer places an order with:
